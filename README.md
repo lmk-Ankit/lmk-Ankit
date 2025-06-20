@@ -1,16 +1,33 @@
-## Hi there 👋
+# Ankit Chatterjee
 
+**Profession:** Student  
+**Languages:** Dart, Flutter, C++, Python, JavaScript  
+**Social:** [LinkedIn](https://www.linkedin.com/in/ankit-chatterjee-a2004007c)  
+**Quote:** _"Trying to get Better everyday"_
+
+---
+
+Welcome to my profile!  
+I'm currently a student passionate about technology and software development. My interests span multiple programming languages and frameworks, and I'm always eager to learn and improve my skills.
+
+---
+
+## 🚀 Projects
 <!--
-**lmk-Ankit/lmk-Ankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Add your project details below. For example:
+- [Project Name](link-to-project): Short description of the project.
 -->
+*Coming soon...*
+
+---
+
+## 🌐 Portfolio Website
+<!--
+Add your portfolio website link below. For example:
+[myportfolio.com](https://myportfolio.com)
+-->
+*Portfolio website coming soon...*
+
+---
+
+Feel free to connect with me on LinkedIn!
