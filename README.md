@@ -17,9 +17,9 @@ I'm currently a student passionate about technology and software development. My
 Add your project details below. For example:
 - [Project Name](link-to-project): Short description of the project.
 -->
-1:MEALS App
-2:menatl Health Detection
-3:Plan genie
+- MEALS App
+- Mental Health Detection
+- Plan genie
 
 ---
 
